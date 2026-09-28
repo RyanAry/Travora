@@ -9,7 +9,7 @@ include_once __DIR__ . '/functions.php';
 $host = "localhost";
 $username = "root";
 $pass = "";
-$database = "traveloka_clone";
+$database = "travora";
 
 $db = new mysqli($host, $username, $pass, $database);
 

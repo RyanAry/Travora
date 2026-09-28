@@ -19,7 +19,7 @@ include '../../conf/login.php';
                     <img src="../img/hero.jpg" alt="Description" class="rounded-l-xl object-cover h-full w-full">
                     <div class="absolute inset-0 bg-black bg-opacity-75 flex justify-center items-center rounded-l-xl">
                         <span>
-                            <img src="../img/logo_footer.png" class="w-64 h-auto" alt="">
+                            <img src="../img/notext_logo.png" class="w-64 h-auto" alt="">
                         </span>
                     </div>
                 </div>

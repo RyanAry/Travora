@@ -3,7 +3,7 @@
                 <div class="flex justify-center items-center">
                     <div class="text-center">
                         <a href="#" class="">
-                            <img src="../img/logo_footer.png" alt="" class="w-32 mx-auto">
+                            <img src="../img/notext_logo.png" alt="" class="w-32 mx-auto">
                         </a>
                         <ul class="flex gap-4 justify-center">
                             <li>
